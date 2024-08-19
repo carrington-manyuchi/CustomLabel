@@ -60,12 +60,12 @@
 			children = (
 				E625436E2C739FFA002C4739 /* AppDelegate.swift */,
 				E62543702C739FFA002C4739 /* SceneDelegate.swift */,
+				E62543822C73A0D1002C4739 /* LabelStyle.swift */,
 				E62543722C739FFA002C4739 /* ViewController.swift */,
 				E62543742C739FFA002C4739 /* Main.storyboard */,
 				E62543772C739FFB002C4739 /* Assets.xcassets */,
 				E62543792C739FFB002C4739 /* LaunchScreen.storyboard */,
 				E625437C2C739FFB002C4739 /* Info.plist */,
-				E62543822C73A0D1002C4739 /* LabelStyle.swift */,
 			);
 			path = CustomLabelStyle;
 			sourceTree = "<group>";
